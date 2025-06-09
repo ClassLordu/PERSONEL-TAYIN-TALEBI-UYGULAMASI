@@ -1,0 +1,6 @@
+@personel_tayin_talebi_api_HostAddress = http://localhost:5000
+
+GET {{personel_tayin_talebi_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
